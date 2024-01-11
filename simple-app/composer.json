@@ -1,0 +1,11 @@
+{
+    "name": "docuseal/simple-app",
+    "authors": [
+        {
+            "name": "Alex Turchyn"
+        }
+    ],
+    "require": {
+        "firebase/php-jwt": "^6.10"
+    }
+}
