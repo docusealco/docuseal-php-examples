@@ -19,7 +19,7 @@ class PageController extends Controller
     public function showBuilder()
     {
         $payload = [
-            'user_email' => 'pete+php@docuseal.co',
+            'user_email' => 'pete+php@docuseal.com',
             'integration_email' => 'signer@example.com',
             'name' => 'Integration W-9 Test Form',
             'document_urls' => ['https://www.irs.gov/pub/irs-pdf/fw9.pdf'],
